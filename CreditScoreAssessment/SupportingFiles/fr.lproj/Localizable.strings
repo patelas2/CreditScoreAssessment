@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  CreditScoreAssessment
+
+  Created by Ashish Patel on 12/27/22.
+  
+*/
+
+// App name
+"appName.CreditScore" = "Clearscore";
+
+// App errors
+"app.jaiBroken.error" = "L'application ne peut pas fonctionner sur des appareils jailbreakés.";
+"app.invalidURL.error" = "URL invalide.";
+"app.noInternet.error" = "Internet non disponible.";
+"app.invalidResponse.error" = "Réponse invalide.";
+"app.requestTimeOut.error" = "Demander un délai d'attente.";
+"app.fileNotFound.error" = "Impossible de trouver le fichier.";
+"app.unknownError.error" = "Erreur inconnue.";
+
+// Dashbord
+"dashboard.title" = "Tableau de bord";
+"dashboard.creditScorePresentation" = "Votre pointage de crédit est";
+"dashboard.creditScoreMaximum" = "hors de %@";
+
+// Credit report details
+"creditDetails.title" = "Rapport de crédit";
+"creditDetails.changes.title" = "Changements";
+"creditDetails.insights.title" = "Connaissances";
+"creditDetails.shorttermdebt.title" = "Votre dette à court terme est";
+"creditDetails.longtermdebt.title" = "Votre dette à long terme est";
+"creditDetails.shorttermdebt.nochange.text" = "Votre dette à court terme est restée la même";
+"creditDetails.shorttermdebt.increased.text" = "Votre dette à court terme a augmenté de";
+"creditDetails.shorttermdebt.decreased.text" = "Votre dette à court terme a diminué de";
+"creditDetails.longtermdebt.nochange.text" = "Votre dette à long terme est restée la même";
+"creditDetails.longtermdebt.increased.text" = "Votre dette à long terme a augmenté de";
+"creditDetails.longtermdebt.decreased.text" = "Votre dette à long terme a diminué de";
+"creditDetails.insights.nodefaults.text" = "Vous n'avez pas de valeurs par défaut dans le fichier";
+"creditDetails.insights.defaults.pluralmonths.text" = "Votre dernier défaut de paiement remonte à %@ mois";
+"creditDetails.insights.defaults.onemonth.text" = "Votre dernier défaut de paiement remonte à 1 mois";
+"creditDetails.insights.nomissedpayments.text" = "Vous n'avez aucun paiement manqué au dossier";
+"creditDetails.insights.missedpayments.pluralmonths.text" = "Vous avez manqué un paiement pour la dernière fois il y a %@ mois";
+"creditDetails.insights.missedpayments.onemonth.text" = "Vous avez manqué un paiement pour la dernière fois il y a 1 mois";
+
+
+// Alert
+"alert.Error" = "Erreur";
+"alert.okButton" = "D'ACCORD";

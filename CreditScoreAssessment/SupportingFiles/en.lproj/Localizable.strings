@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  CreditScoreAssessment
+
+  Created by Ashish Patel on 12/27/22.
+  
+*/
+
+// App name
+"appName.CreditScore" = "Clear Score";
+
+// App errors
+"app.jaiBroken.error" = "App can not run on jail broken devices.";
+"app.invalidURL.error" = "Invalid URL.";
+"app.noInternet.error" = "Internet not available.";
+"app.invalidResponse.error" = "Invalid response.";
+"app.requestTimeOut.error" = "Request time out.";
+"app.fileNotFound.error" = "Unable to find file.";
+"app.unknownError.error" = "Unknown error.";
+
+// Dashbord
+"dashboard.title" = "Dashboard";
+"dashboard.creditScorePresentation" = "Your credit score is";
+"dashboard.creditScoreMaximum" = "out of %@";
+
+// Credit report details
+"creditDetails.title" = "Credit report";
+"creditDetails.changes.title" = "Changes";
+"creditDetails.insights.title" = "Insights";
+"creditDetails.shorttermdebt.title" = "Your short term debt is";
+"creditDetails.longtermdebt.title" = "Your long term debt is";
+"creditDetails.shorttermdebt.nochange.text" = "Your short term debt has stayed the same";
+"creditDetails.shorttermdebt.increased.text" = "Your short term debt has increased by";
+"creditDetails.shorttermdebt.decreased.text" = "Your short term debt has decreased by";
+"creditDetails.longtermdebt.nochange.text" = "Your long term debt has stayed the same";
+"creditDetails.longtermdebt.increased.text" = "Your long term debt has increased by";
+"creditDetails.longtermdebt.decreased.text" = "Your long term debt has decreased by";
+"creditDetails.insights.nodefaults.text" = "You have no defaults on file";
+"creditDetails.insights.defaults.pluralmonths.text" = "You last defaulted %@ months ago";
+"creditDetails.insights.defaults.onemonth.text" = "You last defaulted 1 month ago";
+"creditDetails.insights.nomissedpayments.text" = "You have no missed payments on file";
+"creditDetails.insights.missedpayments.pluralmonths.text" = "You last missed a payment %@ months ago";
+"creditDetails.insights.missedpayments.onemonth.text" = "You last missed a payment 1 month ago";
+
+// Alert
+"alert.Error" = "Error";
+"alert.okButton" = "OK";
